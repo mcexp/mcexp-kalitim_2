@@ -1,0 +1,7 @@
+D:\m güler\çalışma\repos\mcexp\kalıtım_deneme2\kalıtım_deneme2\bin\Debug\kalıtım_deneme2.exe.config
+D:\m güler\çalışma\repos\mcexp\kalıtım_deneme2\kalıtım_deneme2\bin\Debug\kalıtım_deneme2.exe
+D:\m güler\çalışma\repos\mcexp\kalıtım_deneme2\kalıtım_deneme2\bin\Debug\kalıtım_deneme2.pdb
+D:\m güler\çalışma\repos\mcexp\kalıtım_deneme2\kalıtım_deneme2\obj\Debug\kalıtım_deneme2.csprojAssemblyReference.cache
+D:\m güler\çalışma\repos\mcexp\kalıtım_deneme2\kalıtım_deneme2\obj\Debug\kalıtım_deneme2.csproj.CoreCompileInputs.cache
+D:\m güler\çalışma\repos\mcexp\kalıtım_deneme2\kalıtım_deneme2\obj\Debug\kalıtım_deneme2.exe
+D:\m güler\çalışma\repos\mcexp\kalıtım_deneme2\kalıtım_deneme2\obj\Debug\kalıtım_deneme2.pdb
